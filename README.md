@@ -1,2 +1,2 @@
-# KMeans_Clustering_in_Java
-Interactive KMeans Clustering in Java
+# KMeans Clustering in Java
+Interactive KMeans Clustering Simulation in Java
